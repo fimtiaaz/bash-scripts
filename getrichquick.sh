@@ -7,7 +7,7 @@ read age
 echo "Hello $name, you are $age years old"
 
 echo "$twitter is the CEO of Twitter/X"
-
+#reads argument saved
 echo "$USER, $SHELL, $HOSTNAME"
 
 sleep 2
