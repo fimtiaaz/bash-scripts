@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "What is your name"
-read name
+read name #reads name
 echo "What is your age"
 read age
 echo "Hello $name, you are $age years old"
